@@ -15,3 +15,13 @@ pip install NaturalAPI
 # 支持平台 | Supported platforms
 ***该包仅支持windows平台，仅限于windows！！！***
 > The package only supports the Windows platform and is limited to Windows !!!
+
+# 文档翻译条约 | Document Translation Treaty
+> 1. **翻译后的文档内容不得扭曲原有文档内容，以避免误导人们 | The translated document content must not distort the original document content to avoid misleading people**
+> 2. **分叉后，不得向此地址提出合并请求 | After the fork, no merge requests may be made to this address**
+> 3. **分叉后，但未翻译（翻译了一星半点儿的不算）的库仍属于此库所有 | Libraries that have forked, but have not been translated (not counting if they have translated a little bit) still belong to this library**
+> 4. **尽量不使用机器翻译！！！ | Try not to use machine translation!!!**
+
+# 加入开发 | Join development
+**想加入我们一起开发？那就来吧：[【KOOK-QingYunStudio】](https://kook.top/KkUMot) (中国以外的地区可能需要梯子)**
+> **Want to join us in development? Then come on: [【KOOK-QingYunStudio】](https://kook.top/KkUMot) (Ladders may be required outside of China)**
