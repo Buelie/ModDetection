@@ -6,6 +6,12 @@
 **`*`,以Markdown列表格式导出** <br>
 **`air`,以正常列表格式导出** <br>
 
+<br>
+
+---
+
+<br>
+
 # ModDetection
 **This is a program for Minecraft aggregator makers to scan all mods in the mod folder, the scanned mods will be stored in the [`ModsList.txt`](#) folder, you can modify the [`ModsListConfig.txt`](#) file to change the print format.**
 
